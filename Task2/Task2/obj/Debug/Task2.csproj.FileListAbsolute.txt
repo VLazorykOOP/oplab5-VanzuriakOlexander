@@ -1,0 +1,10 @@
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\stepa\Documents\WorkSpace\SummerPractice2\oplab5-VanzuriakOlexander\Task2\Task2\obj\Debug\Task2.pdb
